@@ -5,4 +5,4 @@
 
 ![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=estherkim083)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estherkim083&layout=compact&repo&theme=dark)](https://github.com/estherkim083/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estherkim083&layout=compact&repo&theme=dark)]
